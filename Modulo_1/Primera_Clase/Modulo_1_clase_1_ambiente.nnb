@@ -1,0 +1,123 @@
+{
+    "cells": [
+        {
+            "language": "markdown",
+            "source": [
+                "# **Instalación del Entorno de Desarrollo**\r\n"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Visual Studio Code**\r\n\r\n### Editor de código multiplataforma\r\n\r\nVisual Studio Code. [Visítalo aquí](https://code.visualstudio.com/download)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Bracket Pair Colorization Toggler**\r\n\r\n### Identificador de corchetes en el código\r\n\r\nBracket Pair Colorization Toggler. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **ESLint**\r\n\r\n### Corrector de código JavaScript\r\n\r\nESLint. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)\r\n"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Code to Go**\r\n\r\n### Biblioteca de snippets para casos de uso de JavaScript y React\r\n\r\nESLint. [Visítalo aquí](https://codetogo.io/)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Angular Snippets**\r\n\r\n### Snippets para casos de uso de Angular\r\n\r\nAngular Snippets. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)\r\n\r\n"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **IntelliSense for CSS class names in HTML**\r\n\r\n### herramienta que ayuda a completar código para CCS y HTML\r\n\r\nIntelliSense for CSS class names in HTML. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion#:~:text=A%20Visual%20Studio%20Code%20extension,referenced%20through%20the%20link%20element.)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **JavaScript (ES6) code snippets**\r\n\r\n### Snippets para casos de uso de JavaScript\r\n\r\nJavaScript (ES6) code snippets. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "##  **Material Icon Theme**\r\n\r\n### Identifica iconos de acuerdo a su extensión\r\n\r\nMaterial Icon Theme. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Path intellisense**\r\n\r\n### Ayuda a construir rutas\r\n\r\nPath intellisense. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Prettier - Code formatter**\r\n\r\n### Permite formatear código. Indentado.\r\n\r\nPrettier - Code formatter. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **LiveServer**\r\n\r\n### Servidor para ejecutar documentos HTML\r\n\r\nLiveServer. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)\r\n"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Node JS**\r\n\r\n### Gestor de paquetes\r\n\r\nNode JS. [Visítalo aquí](https://nodejs.org/en/download/prebuilt-installer)\r\n\r\n**Actualizar Versión NPM**\r\n    \r\n    npm install -g npm@latest\r\n\r\n**Validar versión instalada:**\r\n\r\n    Node JS: node -v\r\n\r\n    NPM: npm -v"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Angular CLI Versión 19.0.6**\r\n\r\n### Herramienta que permite desarrollar, crear, probar, implementar y mantener aplicaciones de Angular\r\n\r\n**Visita:** https://www.npmjs.com/\r\n\r\n**Buscar:** @angular/cli\r\n\r\n**Comando:** \r\n\r\n    npm i @angular/cli"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Mongo DB**\r\n\r\n### BD no SQL\r\n\r\nMongo DB. [Visítalo aquí](https://www.mongodb.com/try/download/community)"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "# **Configuración de Git en Visual Studio Code**\r\n\r\n## **Git Extension Pack**\r\n\r\n### Git Extension Pack. [Visítalo aquí](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)\r\n\r\n**Iniciar Repo**\r\n\r\n    git config --global user.name \"John Doe\"\r\n    git config --global user.email johndoe@example.com\r\n\r\n**Comprobando tu configuración**\r\n\r\n    git config --list\r\n\r\n**Repo profe Luis Molero**\r\n\r\nhttps://github.com/luisguillermomolero?tab=repositories"
+            ],
+            "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "## **Cuaderno para Javascript**\r\n\r\n### Notebooks for Python and Javascript. [Visítalo aquí](https://codestax.medium.com/notebooks-for-python-and-javascript-aefbb5040428/)\r\n"
+            ],
+            "outputs": []
+        }
+    ]
+}
