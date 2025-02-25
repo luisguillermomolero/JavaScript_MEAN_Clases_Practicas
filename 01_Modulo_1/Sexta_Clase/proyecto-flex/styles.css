@@ -1,0 +1,48 @@
+.flex-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.menu a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.cta {
+  background-color: lightgray;
+  border: none;
+  padding: 8px 16px;
+  color: blue;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cta:hover {
+  background-color: darkgray;
+}
+
+@media (max-width: 600px) {
+  .flex-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .menu {
+    margin: 10px 0;
+  }
+
+  .menu a {
+    display: block;
+    margin: 5px 0;
+  }
+}
